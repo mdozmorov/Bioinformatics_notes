@@ -30,6 +30,8 @@ Bioinformatics and genomics resources.
 
 - `awesome-expression-browser` - A curated list of software and resources for exploring and visualizing (browsing) expression data, and more. https://github.com/federicomarini/awesome-expression-browser
 
+- `awesome-genome-visualization` - A list of interesting genome browser or genome-browser-like implementations. https://github.com/cmdcolin/awesome-genome-visualization
+
 - `awesome-deepbio` - A curated list of awesome deep learning applications in the field of computational biology. https://github.com/gokceneraslan/awesome-deepbio
 
 - `awesome-microbes` - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. [https://github.com/stevetsa/awesome-microbes](https://github.com/stevetsa/awesome-microbes)
