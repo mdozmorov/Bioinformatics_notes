@@ -34,6 +34,8 @@ Bioinformatics and genomics resources.
 
 - `awesome-deepbio` - A curated list of awesome deep learning applications in the field of computational biology. https://github.com/gokceneraslan/awesome-deepbio
 
+- `awesome-docker` - A curated list of Docker resources and projects, https://awesome-docker.netlify.com/, https://github.com/veggiemonk/awesome-docker
+
 - `awesome-microbes` - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. [https://github.com/stevetsa/awesome-microbes](https://github.com/stevetsa/awesome-microbes)
 
 - `awesome-reproducible-research` - A curated list of reproducible research case studies, projects, tutorials, and media. [https://github.com/leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research)
