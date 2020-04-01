@@ -8,6 +8,10 @@ Bioinformatics and genomics resources.
 * [Videos](#videos)
 * [Misc](#misc)
 
+## Essentials
+
+- Learning Bioinformatics At Home, https://github.com/harvardinformatics/learning-bioinformatics-at-home
+
 ## Repositories
 
 - `ads1-slides` - Ben Langmead's Slides for Algorithms for DNA Sequencing Coursera class. [https://github.com/BenLangmead/ads1-slides.git](https://github.com/BenLangmead/ads1-slides.git). The complete class is at [http://www.langmead-lab.org/teaching-materials/](http://www.langmead-lab.org/teaching-materials/)
