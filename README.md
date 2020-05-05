@@ -17,6 +17,8 @@ Bioinformatics and genomics resources.
 
 ## Videos
 
+- [Machine Learning in Genomics - Fall 2019](https://www.youtube.com/playlist?list=PLypiXJdtIca6U5uQOCHjP9Op3gpa177fK) by Manolis Kellis. [Course website](http://stellar.mit.edu/S/course/6/fa19/6.047/)
+
 - [Bioconductor Workshop 2: RNA Seq and ChIP Seq Analysis](https://www.youtube.com/watch?v=J9LNYhhNhrk) - 6 hours workshop on RNA-seq and ChIP-seq technology and analysis by Levi Waldron and others
 
 - [Differential Splicing Analysis with RNA-Seq: Current Applications, Approaches, & Limitations](https://www.youtube.com/watch?v=LknDQw08P5w) - 1 hour overview of differential splicing analysis
