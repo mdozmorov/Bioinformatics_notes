@@ -4,13 +4,14 @@ Bioinformatics and genomics resources.
 
 # Table of content
 
+* [Avesome](#avesome)
 * [Repositories](#repositories)
 * [Videos](#videos)
 * [Misc](#misc)
 
-## Essentials
+## Avesome
 
-- Learning Bioinformatics At Home, https://github.com/harvardinformatics/learning-bioinformatics-at-home
+- [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
 
 ## Repositories
 
