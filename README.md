@@ -12,6 +12,7 @@ Bioinformatics and genomics resources.
 ## Avesome
 
 - [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
+- [List of software/websites/databases/other stuff for genome engineering](https://github.com/davidliwei/awesome-CRISPR)
 
 ## Repositories
 
