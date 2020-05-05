@@ -5,14 +5,35 @@ Bioinformatics and genomics resources.
 # Table of content
 
 * [Avesome](#avesome)
-* [Repositories](#repositories)
 * [Videos](#videos)
+* [Repositories](#repositories)
 * [Misc](#misc)
 
 ## Avesome
 
 - [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
 - [List of software/websites/databases/other stuff for genome engineering](https://github.com/davidliwei/awesome-CRISPR)
+
+
+## Videos
+
+- [Bioconductor Workshop 2: RNA Seq and ChIP Seq Analysis](https://www.youtube.com/watch?v=J9LNYhhNhrk) - 6 hours workshop on RNA-seq and ChIP-seq technology and analysis by Levi Waldron and others
+
+- [Differential Splicing Analysis with RNA-Seq: Current Applications, Approaches, & Limitations](https://www.youtube.com/watch?v=LknDQw08P5w) - 1 hour overview of differential splicing analysis
+
+- [NHGRI_Genomics2016 - "Current Topics in Genome Analysis 2016" course](https://www.youtube.com/playlist?list=PL1ay9ko4A8skYqjhrA4INDZ7IHtebS0lY) - A lecture series covering contemporary areas in genomics and bioinformatics, [slides](https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/)
+
+- [MIT_SysBiol2014 - "Foundations of Computational and Systems Biology"](https://www.youtube.com/watch?v=lJzybEXmIj0&list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac), [slides](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/)
+
+- [Regulatory Genomics and Epigenomics](https://www.youtube.com/playlist?list=PLgKuh-lKre10fYXnD-8ghi9b9xl83CKet) - series of genomcs-oriented talks by Simons Institute. 26 videos, \~30min each. 
+
+- [Foundations of Data Science — Spring 2016](https://data-8.appspot.com/sp16/course) - course from UC Berkeley. Instructor: John DeNero. Video and slides. This course is accompanied by [other "connector" courses from UC Berkeley](https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3)
+
+- [A Roadmap to the Living Genome](https://videocast.nih.gov/summary.asp?Live=12792&bhcp=1) by [John Stamatoyannopoulos](http://www.stamlab.org/). An overview of cell type-specific (epi)genomic landscapes, visualization and analysis techniques, association and enrichment of disease-associated variants in regulatory regions.
+
+- [RNA-Seq Methods and Algorithms](https://www.youtube.com/watch?v=96yBPM8lEt8&list=PLfFNmoa-yUIb5cYG2R1zf5rtrQQKZvKwG) - short video course by Harold Pimentel, pseudoalignment, kallisto, sleuth, practical
+
+
 
 ## Repositories
 
@@ -152,25 +173,6 @@ Bioinformatics and genomics resources.
 - `RNA-seq_Bioconductor.pdf` - Bioconductor building blocks for RNA-seq data analysis, https://www.bioconductor.org/help/course-materials/2017/OMRF/B2_Common_Operations.html
 
 - `RNA-seq_workflow.pdf` - SummarizedExperiment and RNA-seq data manipulation in Bioconductor, https://www.bioconductor.org/help/course-materials/2017/OMRF/B3_RNASeq_Workflow.html
-
-## Videos
-
-- `Bioconductor Workshop 2: RNA Seq and ChIP Seq Analysis` - 6 hours workshop on RNA-seq and ChIP-seq technology and analysis by Levi Waldron and others. https://www.youtube.com/watch?v=J9LNYhhNhrk
-
-- “Differential Splicing Analysis with RNA-Seq: Current Applications, Approaches, & Limitations” - 1 hour overview of differential splicing analysis. https://www.youtube.com/watch?v=LknDQw08P5w
-
-- `NHGRI_Genomics2016` - "Current Topics in Genome Analysis 2016" course. A lecture series covering contemporary areas in genomics and bioinformatics. Video lectures, https://www.youtube.com/playlist?list=PL1ay9ko4A8skYqjhrA4INDZ7IHtebS0lY, and slides, https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/
-
-- `MIT_SysBiol2014` - "Foundations of Computational and Systems Biology". Video lectures, https://www.youtube.com/watch?v=lJzybEXmIj0&list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac, and slides https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/
-
-- "Regulatory Genomics and Epigenomics" - series of genomcs-oriented talks by Simons Institute. 26 videos, ~30min each. https://www.youtube.com/playlist?list=PLgKuh-lKre10fYXnD-8ghi9b9xl83CKet
-
-- "Foundations of Data Science — Spring 2016" course from UC Berkeley. Instructor: John DeNero. Video and slides. [https://data-8.appspot.com/sp16/course](https://data-8.appspot.com/sp16/course). This course is accompanied by other "connector" courses from UC Berkeley, [https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3](https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3)
-
-- "[A Roadmap to the Living Genome](https://videocast.nih.gov/summary.asp?Live=12792&bhcp=1)" by [John Stamatoyannopoulos](http://www.stamlab.org/). An overview of cell type-specific (epi)genomic landscapes, visualization and analysis techniques, association and enrichment of disease-associated variants in regulatory regions.
-
-- "RNA-Seq Methods and Algorithms" short video course by Harold Pimentel, pseudoalignment, kallisto, sleuth, practical. [https://www.youtube.com/watch?v=96yBPM8lEt8&list=PLfFNmoa-yUIb5cYG2R1zf5rtrQQKZvKwG](https://www.youtube.com/watch?v=96yBPM8lEt8&list=PLfFNmoa-yUIb5cYG2R1zf5rtrQQKZvKwG)
-
 ## Misc
 
 - Ming Tang's "My opinionated selection of books/urls for bioinformatics/data science curriculum" collection of links, https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/
