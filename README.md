@@ -17,6 +17,8 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 ## Awesome
 
+- [For all your seq... DNA & RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) - Illumina flyer with infographics of all sequencing-by-synthesis technologies. [RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-rna.pdf) and [DNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) versions
+
 - [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
 
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software, by Daniel Cook and community-contributed
