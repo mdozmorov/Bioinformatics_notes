@@ -33,6 +33,8 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 - [multimodal-scRNA-seq](https://github.com/arnavm/multimodal-scRNA-seq) - Figure depicting the breadth of multimodal scRNA-seq technologies. References to technology-specific papers
 
+- [awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) - A curated list of bioinformatics bench-marking papers and resources
+
 - [awesome_genome_browsers](https://github.com/davemcg/awesome_genome_browsers) - genome browsers and genomic visualization tools. By David McGaughey
 
 - [awesome-expression-browser](https://github.com/federicomarini/awesome-expression-browser) - A curated list of software and resources for exploring and visualizing (browsing) expression data, and more. By Federico Marini and community-maintained
