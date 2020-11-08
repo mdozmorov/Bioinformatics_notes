@@ -148,3 +148,4 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 - [RNA-Seq Methods and Algorithms](https://www.youtube.com/watch?v=96yBPM8lEt8&list=PLfFNmoa-yUIb5cYG2R1zf5rtrQQKZvKwG) - short video course by Harold Pimentel, pseudoalignment, kallisto, sleuth, practical
 
+- [Integrating ENCODE Data With Your Research: An Interactive Survey of ENCODE Tools and Resources](https://www.pathlms.com/ashg/courses/25101) - set of short videos about ENCODE data and functionality
