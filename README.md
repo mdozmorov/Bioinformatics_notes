@@ -75,6 +75,8 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 - [List of bioinformatics tools developed by IHEC Int'l Human Epigenome Consortium researchers](http://ihec-epigenomes.org/research/tools/) - tools for all types of genomic analyses
 
+- [Learning Nextflow in 2020](https://www.nextflow.io/blog/2020/learning-nextflow-in-2020.html) - Materials to learn NextFlow
+
 - [nf-core](https://www.nextflow.io/) - a framework for Nextflow-based pipeline creation, community-driven. Integrated with Conda, Docker, Biocontainers. Scalable to a cloud level. Pipeline assemblers: [Flowcraft](https://github.com/assemblerflow/flowcraft), [Pipeliner](https://github.com/montilab/pipeliner). [nf-core GitHub](https://github.com/nf-core/). All pipelines are on the [nf-core hub](https://nf-co.re/). 
     - Ewels, Philip, Alexander Peltzer, Sven Fillinger, Johannes Alneberg, Harshil Patel, Andreas Wilm, Maxime Garcia, Paolo Di Tommaso, and Sven Nahnsen. “[Nf-Core: Community Curated Bioinformatics Pipelines](https://doi.org/10.1101/610741).” Preprint. Bioinformatics, April 16, 2019. 
 
