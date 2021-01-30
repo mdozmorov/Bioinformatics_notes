@@ -11,6 +11,7 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 
 - [Awesome](#awesome)
+  - [Notes by Ming Tang](#notes-by-ming-tang)
 - [Pipelines](#pipelines)
 - [Courses](#courses)
 - [Videos](#videos)
@@ -21,10 +22,6 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 - [Genome Coordinate Cheat Sheet](http://alternateallele.blogspot.com/2012/03/genome-coordinate-cheat-sheet.html)
 
-- [For all your seq... DNA & RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) - Illumina flyer with infographics of all sequencing-by-synthesis technologies. [RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-rna.pdf) and [DNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) versions
-
-- [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
-
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software, by Daniel Cook and community-contributed
 
 - [awosome-bioinformatics](https://github.com/openbiox/awosome-bioinformatics) - A curated list of resources for learning bioinformatics
@@ -33,9 +30,9 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 - [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. By Sean Davis and community-maintained
 
-- [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics) - List of software packages for multi-omics analysis, by Mike Love and community-maintained
+- [awesome-10x-genomics](https://github.com/johandahlberg/awesome-10x-genomics) - List of tools and resources related to the 10x genomics GEMCode/Chromium system, by Johan Dahlberg and community-contributed
 
-- [multimodal-scRNA-seq](https://github.com/arnavm/multimodal-scRNA-seq) - Figure depicting the breadth of multimodal scRNA-seq technologies. References to technology-specific papers
+- [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics) - List of software packages for multi-omics analysis, by Mike Love and community-maintained
 
 - [awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) - A curated list of bioinformatics bench-marking papers and resources
 
@@ -46,6 +43,23 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 - [awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization) - A list of interesting genome browser or genome-browser-like implementations. By Colin Diesh
 
 - [awesome-microbes](https://github.com/stevetsa/awesome-microbes) - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. By Steve Tsang and community-contributed
+
+- [biotools](https://github.com/jdidion/biotools) - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. By John Didion
+
+- [For all your seq... DNA & RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) - Illumina flyer with infographics of all sequencing-by-synthesis technologies. [RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-rna.pdf) and [DNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) versions
+
+- [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
+
+- [List of software/websites/databases/other stuff for genome engineering](https://github.com/davidliwei/awesome-CRISPR)
+
+- [multimodal-scRNA-seq](https://github.com/arnavm/multimodal-scRNA-seq) - Figure depicting the breadth of multimodal scRNA-seq technologies. References to technology-specific papers
+
+- [SequencEnG](http://education.knoweng.org/sequenceng/) - Hierarchical summary of 66 sequencing technologies, computational algorithms, references to papers. 
+    - Zhang, Y., Manjunath, M., Kim, Y., Heintz, J., and Song, J.S. (2019). SequencEnG: an interactive knowledge base of sequencing techniques. Bioinformatics 35, 1438–1440.
+
+- [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)- Jeff Leek recommended list of genomics papers
+
+### Notes by Ming Tang
 
 - [Unix, R and python tools for genomics and data science](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - links and references to many computational biology resources, by Ming Tang 
 
@@ -58,17 +72,6 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 - [DNA-seq-analysis](https://github.com/crazyhottommy/DNA-seq-analysis) - Notes on whole exome and whole genome sequencing analysis, by Ming Tang
 
 - [scATAC-seq-analysis-notes](https://github.com/crazyhottommy/scATAC-seq-analysis-notes) - single-cell ATAC-seq notes, by Ming Tang
-
-- [biotools](https://github.com/jdidion/biotools) - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. By John Didion
-
-- [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)- Jeff Leek recommended list of genomics papers
-
-- [List of software/websites/databases/other stuff for genome engineering](https://github.com/davidliwei/awesome-CRISPR)
-
-- [awesome-10x-genomics](https://github.com/johandahlberg/awesome-10x-genomics) - List of tools and resources related to the 10x genomics GEMCode/Chromium system, by Johan Dahlberg and community-contributed
-
-- [SequencEnG](http://education.knoweng.org/sequenceng/) - Hierarchical summary of 66 sequencing technologies, computational algorithms, references to papers. 
-    - Zhang, Y., Manjunath, M., Kim, Y., Heintz, J., and Song, J.S. (2019). SequencEnG: an interactive knowledge base of sequencing techniques. Bioinformatics 35, 1438–1440.
 
 
 ## Pipelines
