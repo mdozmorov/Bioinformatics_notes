@@ -44,6 +44,8 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 - [awesome-microbes](https://github.com/stevetsa/awesome-microbes) - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. By Steve Tsang and community-contributed
 
+- [Bedtools Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e#subtract)
+
 - [biotools](https://github.com/jdidion/biotools) - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. By John Didion
 
 - [For all your seq... DNA & RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) - Illumina flyer with infographics of all sequencing-by-synthesis technologies. [RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-rna.pdf) and [DNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) versions
