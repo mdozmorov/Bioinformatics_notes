@@ -92,6 +92,8 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 ## Courses
 
+- [Bioinformatics Coffee Hour](https://github.com/harvardinformatics/bioinformatics-coffee-hour) - Short lessons from FAS Informatics coffee hour,data science, command line, R basics, Snakemake
+
 - [The Biostar Handbook: 2nd Edition](https://www.biostarhandbook.com/index.html) - Biostar Handbook - bioinformatics survival guide. A practical overview for the data analysis methods of bioinformatics. From Unix/command line to each type of sequencing data ana analysis
 
 - [Beginner's Handbook to Next Generation Sequencing by GenoHub](https://genohub.com/next-generation-sequencing-handbook/) - omics technologies, experimental descriptions
