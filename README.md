@@ -32,6 +32,8 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 - [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. By Sean Davis and community-maintained
 
+- [awesome-alternative-splicing](https://github.com/HussainAther/awesome-alternative-splicing) - Alternative splicing resources
+
 - [awesome-10x-genomics](https://github.com/johandahlberg/awesome-10x-genomics) - List of tools and resources related to the 10x genomics GEMCode/Chromium system, by Johan Dahlberg and community-contributed
 
 - [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics) - List of software packages for multi-omics analysis, by Mike Love and community-maintained
