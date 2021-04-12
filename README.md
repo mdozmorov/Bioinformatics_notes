@@ -77,6 +77,8 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 - [DNA-seq-analysis](https://github.com/crazyhottommy/DNA-seq-analysis) - Notes on whole exome and whole genome sequencing analysis, by Ming Tang
 
+- [DNA-methylation-analysis](https://github.com/crazyhottommy/DNA-methylation-analysis) - DNA methylation analysis notes from Ming Tang
+
 - [scATAC-seq-analysis-notes](https://github.com/crazyhottommy/scATAC-seq-analysis-notes) - single-cell ATAC-seq notes, by Ming Tang
 
 
