@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-Bioinformatics learning and data analysis tips and tricks. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
+Bioinformatics learning and data analysis tips and tricks. Please, [contribute and get in touch](CONTRIBUTING.md)! 
 
 # Table of content
 
@@ -17,6 +17,22 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 - [Videos](#videos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Genomics notes
+
+- [RNA-seq notes](https://github.com/mdozmorov/RNA-seq)
+- [scRNA-seq notes](https://github.com/mdozmorov/scRNA-seq_notes)
+- [ChIP-seq notes](https://github.com/mdozmorov/ChIP-seq_notes)
+- [Methylation notes](https://github.com/mdozmorov/Methylation_notes)
+- [scATAC-seq notes](https://github.com/mdozmorov/scATAC-seq_notes)
+- [SNP notes](https://github.com/mdozmorov/SNP_notes)
+- [Hi-C tools](https://github.com/mdozmorov/HiC_tools)
+- [Hi-C data](https://github.com/mdozmorov/HiC_data)
+- [scHi-C notes](https://github.com/mdozmorov/scHiC_notes)
+- [Cancer notes](https://github.com/mdozmorov/Cancer_notes)
+- [Immuno notes](https://github.com/mdozmorov/Immuno_notes)
+
+See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
 
 ## Awesome
 
