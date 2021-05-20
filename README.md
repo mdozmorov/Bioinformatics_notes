@@ -112,6 +112,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ## Courses
 
+- [Reproducible research and data analysis with Linux containers and Nextflow pipelines](https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2021/index.html), [GitHub](https://github.com/biocorecrg/CoursesCRG_Containers_Nextflow_May_2021)
+
 - [Bioinformatics Coffee Hour](https://github.com/harvardinformatics/bioinformatics-coffee-hour) - Short lessons from FAS Informatics coffee hour,data science, command line, R basics, Snakemake
 
 - [The Biostar Handbook: 2nd Edition](https://www.biostarhandbook.com/index.html) - Biostar Handbook - bioinformatics survival guide. A practical overview for the data analysis methods of bioinformatics. From Unix/command line to each type of sequencing data ana analysis
