@@ -81,6 +81,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [SequencEnG](http://education.knoweng.org/sequenceng/) - Hierarchical summary of 66 sequencing technologies, computational algorithms, references to papers. 
     - Zhang, Y., Manjunath, M., Kim, Y., Heintz, J., and Song, J.S. (2019). SequencEnG: an interactive knowledge base of sequencing techniques. Bioinformatics 35, 1438–1440.
 
+- [OmniPath: intra- & intercellular signaling knowledge](https://omnipathdb.org/) - a database of molecular biology prior knowledge, combines data from more than 100 resources. Interface to R, Python, more.
+
 - [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)- Jeff Leek recommended list of genomics papers
 
 ### Notes by Ming Tang
