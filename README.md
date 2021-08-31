@@ -120,6 +120,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ## Courses
 
+- [RNA-seq theory and analysis](https://www.sudosight.com/RNA-seek/RNA-seq/Theory/) - theory and practical guidelines for RNA-seq data analysis, by Skyler Kuhn
+
 - [Data science for economists](https://github.com/uo-ec607/lectures) - from R, tidyverse to GitHub, web scraping, Docker, Google Cloud and more. By [Grant McDermott](http://grantmcdermott.com/)
 
 - [Reproducible research and data analysis with Linux containers and Nextflow pipelines](https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2021/index.html), [GitHub](https://github.com/biocorecrg/CoursesCRG_Containers_Nextflow_May_2021)
