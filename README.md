@@ -120,6 +120,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ## Courses
 
+- [biomedicalresearch2021](https://github.com/schatzlab/biomedicalresearch2021) - Course Materials for EN.601.452 / AS.020.415 Computational Biomedical Research & Advanced Biomedical Research, by Michael Schatz. Links to other courses, papers.
+
 - [RNA-seq theory and analysis](https://www.sudosight.com/RNA-seek/RNA-seq/Theory/) - theory and practical guidelines for RNA-seq data analysis, by Skyler Kuhn
 
 - [Data science for economists](https://github.com/uo-ec607/lectures) - from R, tidyverse to GitHub, web scraping, Docker, Google Cloud and more. By [Grant McDermott](http://grantmcdermott.com/)
