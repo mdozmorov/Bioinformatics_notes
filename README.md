@@ -174,6 +174,10 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [alignment-and-variant-calling-tutorial](https://github.com/ekg/alignment-and-variant-calling-tutorial) - basic walk-throughs for alignment and variant calling from NGS sequencing data, PDF lecture, by Erik Garrison.
 
+- [Oxford Nanopore sequencing tutorial](https://github.com/AbeelLab/integrated_bioinformatics) using procaryotic genomes. [Supplementary material](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007314#sec006) - walkthrough, tools, data, VM image available. <details>
+    <summary>Paper</summary>
+    Salazar, Alex N., Franklin L. Nobrega, Christine Anyansi, Cristian Aparicio-Maldonado, Ana Rita Costa, Anna C. Haagsma, Anwar Hiralal, et al. “[An Educational Guide for Nanopore Sequencing in the Classroom](https://doi.org/10.1371/journal.pcbi.1007314).” PLOS Computational Biology, (January 23, 2020)
+</details>
 
 ## Videos
 
