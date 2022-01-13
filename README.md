@@ -36,8 +36,15 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ## Awesome
 
-- The complete assembly of human genome (haploid CHM13 cell line). 3.055 billion base pairs, no gaps for all 22 chromosomes plus ChrX, new genes. Resolving ribosomal rDNA sequences. PacBio, Oxford Nanopore, other technologies. [The Telomere-to-Telomere (T2T) consortium](https://sites.google.com/ucsc.edu/t2tworkinggroup), [UCSC](http://genome.ucsc.edu/cgi-bin/hgTracks?genome=t2t-chm13-v1.0&hubUrl=http://t2t.gi.ucsc.edu/chm13/hub/hub.txt), [NCBI PRJNA559484](https://www.ncbi.nlm.nih.gov/bioproject/559484), [GitHub with download links to FASTA, gff3, liftover chains](https://github.com/marbl/CHM13)
-    - Nurk, Sergey, Sergey Koren, Arang Rhie, Mikko Rautiainen, Andrey V. Bzikadze, Alla Mikheenko, Mitchell R. Vollger et al. "[The complete sequence of a human genome](https://doi.org/10.1101/2021.05.26.445798)." bioRxiv (2021).
+- Historical perspective on genome sequencing technologies. From the landmark 1953 Watson and Crick publication through sequencing of nucleic acids, shotgun sequencing (Messing, Sanger), Human Genome Project (HGP) & Celera Genomics, milestones in genome assembly, Next and Third generation sequencing, single molecule sequencing (SMRT, ONT, PacBio), long-read genome assemblers (FALCON, Canu). Box1 - companies developing sequencing technologies, Box 2 - more details on HGP, Box 3 - bioinformatics tools for genome assembly. <details>
+    <summary>Paper</summary>
+    Giani, Alice Maria, Guido Roberto Gallo, Luca Gianfranceschi, and Giulio Formenti. “Long Walk to Genomics: History and Current Approaches to Genome Sequencing and Assembly.” Computational and Structural Biotechnology Journal, November 2019, S2001037019303277. https://doi.org/10.1016/j.csbj.2019.11.002.
+</details>
+
+- The complete assembly of human genome (haploid CHM13 cell line). 3.055 billion base pairs, no gaps for all 22 chromosomes plus ChrX, new genes. Resolving ribosomal rDNA sequences. PacBio, Oxford Nanopore, other technologies. [The Telomere-to-Telomere (T2T) consortium](https://sites.google.com/ucsc.edu/t2tworkinggroup), [UCSC](http://genome.ucsc.edu/cgi-bin/hgTracks?genome=t2t-chm13-v1.0&hubUrl=http://t2t.gi.ucsc.edu/chm13/hub/hub.txt), [NCBI PRJNA559484](https://www.ncbi.nlm.nih.gov/bioproject/559484), [GitHub with download links to FASTA, gff3, liftover chains](https://github.com/marbl/CHM13). <details>
+    <summary>Paper</summary>
+    Nurk, Sergey, Sergey Koren, Arang Rhie, Mikko Rautiainen, Andrey V. Bzikadze, Alla Mikheenko, Mitchell R. Vollger et al. "The complete sequence of a human genome." bioRxiv (2021). https://doi.org/10.1101/2021.05.26.445798
+</details>
 
 - [Milestones in Genomic Sequencing](https://www.nature.com/immersive/d42859-020-00099-0/index.html) by Nature, 2000-2021 period, interactive infographics
 
