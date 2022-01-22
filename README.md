@@ -74,6 +74,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [awesome-microbes](https://github.com/stevetsa/awesome-microbes) - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. By Steve Tsang and community-contributed
 
+- [algorithmsInBioinformatics](https://github.com/joachimwolff/algorithmsInBioinformatics) - Bioinformatics algorithms: Needleman-Wunsch, Feng-Doolittle, Gotoh and Nussinov implemented in Python. By Joachim Wolff, with lecture notes.
+
 - [Bedtools Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e#subtract)
 
 - [sandbox.bio](https://sandbox.bio/tutorials/?id=bedtools-intro) - an interactive bedtools tutorial developed by the Quinlan Lab
