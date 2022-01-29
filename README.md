@@ -15,6 +15,7 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 - [Pipelines](#pipelines)
 - [Courses](#courses)
 - [Videos](#videos)
+- [Bioinformatics core organization](#bioinformatics-core-organization)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -211,3 +212,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [RNA-Seq Methods and Algorithms](https://www.youtube.com/watch?v=96yBPM8lEt8&list=PLfFNmoa-yUIb5cYG2R1zf5rtrQQKZvKwG) - short video course by Harold Pimentel, pseudoalignment, kallisto, sleuth, practical
 
 - [Integrating ENCODE Data With Your Research: An Interactive Survey of ENCODE Tools and Resources](https://www.pathlms.com/ashg/courses/25101) - set of short videos about ENCODE data and functionality
+
+## Bioinformatics core organization
+
+- Kallioniemi, O., L. Wessels, and A. Valencia. “[On the Organization of Bioinformatics Core Services in Biology-Based Research Institutes](https://doi.org/10.1093/bioinformatics/btr125).” Bioinformatics, (May 15, 2011) - 1-page Bioinformatics core recommendations.
+
+
+
+
