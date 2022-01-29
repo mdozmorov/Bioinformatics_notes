@@ -215,6 +215,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ## Bioinformatics core organization
 
+[List of bioinformatics core facilities](http://www.bioinfo-core.org/index.php/BioWiki:Community_portal) at bioinfo-core.org
+
 - Kallioniemi, O., L. Wessels, and A. Valencia. “[On the Organization of Bioinformatics Core Services in Biology-Based Research Institutes](https://doi.org/10.1093/bioinformatics/btr125).” Bioinformatics, (May 15, 2011) - 1-page Bioinformatics core recommendations.
 
 
