@@ -219,6 +219,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [List of bioinformatics core facilities](http://www.bioinfo-core.org/index.php/BioWiki:Community_portal) at bioinfo-core.org
 
+- Dragon, Julie A., Chris Gates, Shannan Ho Sui, John N. Hutchinson, R. Krishna Murthy Karuturi, Alper Kucukural, Shawn Polson, et al. “[Bioinformatics Core Survey Highlights the Challenges Facing Data Analysis Facilities](https://doi.org/10.7171/jbt.20-3102-005).” Journal of Biomolecular Techniques, June 2020 - Bioinformatics core facility considerations. Responsibilities, finansial models, software/data, reporting/accreditation, challenges and concerns, future.
+
 - Kallioniemi, O., L. Wessels, and A. Valencia. “[On the Organization of Bioinformatics Core Services in Biology-Based Research Institutes](https://doi.org/10.1093/bioinformatics/btr125).” Bioinformatics, (May 15, 2011) - 1-page Bioinformatics core recommendations.
 
 - Lewitter, Fran, Michael Rebhan, Brent Richter, and David Sexton. “[The Need for Centralization of Computational Biology Resources](https://doi.org/10.1371/journal.pcbi.1000372).” PLoS Computational Biology, (June 26, 2009) - Bioinformatics core as the center of computational resources, advantages and disadvantages. Questions to consider: IT and computational infrastructure, keeping up with science, training and education, funding model, hiring, evaluation, esternal affitiates with the core, outreach.
