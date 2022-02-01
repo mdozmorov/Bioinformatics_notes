@@ -223,4 +223,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - Lewitter, Fran, Michael Rebhan, Brent Richter, and David Sexton. “[The Need for Centralization of Computational Biology Resources](https://doi.org/10.1371/journal.pcbi.1000372).” PLoS Computational Biology, (June 26, 2009) - Bioinformatics core as the center of computational resources, advantages and disadvantages. Questions to consider: IT and computational infrastructure, keeping up with science, training and education, funding model, hiring, evaluation, esternal affitiates with the core, outreach.
 
+- Richter, Brent G., and David P. Sexton. “[Managing and Analyzing Next-Generation Sequence Data](https://doi.org/10.1371/journal.pcbi.1000369).” PLoS Computational Biology, (June 26, 2009) - Sequencing data computational analysis and storage, skills for data analysis (Unix, scripting, parallel computing, network, databases, biology/genomics, connect science with (novel) software solutions).
+
 - Lewitter, Fran, and Michael Rebhan. “[Establishing a Successful Bioinformatics Core Facility Team](https://doi.org/10.1371/journal.pcbi.1000368).” PLoS Computational Biology, (June 26, 2009) - Considerations for successful bioinformatics core development (objectives, personnel, prioritization/time management, staying connected with research trends, outreach). [Slides from the ISMB 2008 BoF on best practices in running bioinformatics cores](http://www.bioinfo-core.org/index.php/ISMB_2008:_BoF_on_best_practices_in_running_bioinformatics_cores).
+
+
