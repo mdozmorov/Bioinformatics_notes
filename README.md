@@ -79,9 +79,12 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [Bedtools Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e#subtract)
 
-- [sandbox.bio](https://sandbox.bio/tutorials/?id=bedtools-intro) - an interactive bedtools tutorial developed by the Quinlan Lab
-
 - [biotools](https://github.com/jdidion/biotools) - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. By John Didion
+
+- [bio.tools](https://bio.tools/) - a community-driven comprehensive and consistent registry of bioinformatics resources. Supported by ELIXIR - the European infrastructure for biological information. <details>
+    <summary>Paper</summary>
+    Ison, Jon, Kristoffer Rapacki, Hervé Ménager, Matúš Kalaš, Emil Rydza, Piotr Chmura, Christian Anthon, et al. “Tools and Data Services Registry: A Community Effort to Document Bioinformatics Resources.” Nucleic Acids Research 44, no. D1 (January 4, 2016): D38–47. https://doi.org/10.1093/nar/gkv1116.
+</details>
 
 - [For all your seq... DNA & RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) - Illumina flyer with infographics of all sequencing-by-synthesis technologies. [RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-rna.pdf) and [DNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) versions
 
@@ -90,6 +93,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [List of software/websites/databases/other stuff for genome engineering](https://github.com/davidliwei/awesome-CRISPR)
 
 - [multimodal-scRNA-seq](https://github.com/arnavm/multimodal-scRNA-seq) - Figure depicting the breadth of multimodal scRNA-seq technologies. References to technology-specific papers
+
+- [sandbox.bio](https://sandbox.bio/tutorials/?id=bedtools-intro) - an interactive bedtools tutorial developed by the Quinlan Lab
 
 - [SequencEnG](http://education.knoweng.org/sequenceng/) - Hierarchical summary of 66 sequencing technologies, computational algorithms, references to papers. 
     - Zhang, Y., Manjunath, M., Kim, Y., Heintz, J., and Song, J.S. (2019). SequencEnG: an interactive knowledge base of sequencing techniques. Bioinformatics 35, 1438–1440.
