@@ -79,6 +79,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [Bedtools Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e#subtract)
 
+- [bioicons](https://bioicons.com/) - A library of free open source icons for science illustrations in biology and chemistry. SVG downloads. [GitHub](https://github.com/duerrsimon/bioicons)
+
 - [biotools](https://github.com/jdidion/biotools) - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. By John Didion
 
 - [bio.tools](https://bio.tools/) - a community-driven comprehensive and consistent registry of bioinformatics resources. Supported by ELIXIR - the European infrastructure for biological information. <details>
