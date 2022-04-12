@@ -137,6 +137,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ## Courses
 
+- [training-collection](https://github.com/sib-swiss/training-collection) - Bioinformatics training materials: Scripting and languages (UNIX shell, Python, R, git), Sequence data analysis (General, Miscellaneous, RNA-seq, ChIP-seq, Single cell, Variant analysis, Genome assembly, Metagenomics), Computational methods and pipelines (Containers, Nextflow, Snakemake, Galaxy, CWL, High performance computing), Statistics and machine learning, Reproducibility and data management. By [SIB Swiss Institute of Bioinformatics](https://github.com/sib-swiss)
+
 - [2020-GGG298](https://github.com/ngs-docs/2020-GGG298) - Course materials for GGG298 - Tools to support data-intensive research, by Titus Brown. Unix, Conda, Snakemake, project organization, Git, Slurm, R/Rmarkdown
 
 - [biomedicalresearch2021](https://github.com/schatzlab/biomedicalresearch2021) - Course Materials for EN.601.452 / AS.020.415 Computational Biomedical Research & Advanced Biomedical Research, by Michael Schatz. Links to other courses, papers.
