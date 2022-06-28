@@ -147,6 +147,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [RNA-seq theory and analysis](https://www.sudosight.com/RNA-seek/RNA-seq/Theory/) - theory and practical guidelines for RNA-seq data analysis, by Skyler Kuhn
 
+- [Introduction to Bioimage Analysis](https://bioimagebook.github.io/) - This book tries explain the main ideas of image analysis in a practical and engaging way. By Pete Bankhead. [GitHub](https://github.com/bioimagebook/bioimagebook.github.io)
+
 - [Data science for economists](https://github.com/uo-ec607/lectures) - from R, tidyverse to GitHub, web scraping, Docker, Google Cloud and more. By [Grant McDermott](http://grantmcdermott.com/)
 
 - [Reproducible research and data analysis with Linux containers and Nextflow pipelines](https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2021/index.html), [GitHub](https://github.com/biocorecrg/CoursesCRG_Containers_Nextflow_May_2021)
