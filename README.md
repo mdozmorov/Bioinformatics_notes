@@ -77,6 +77,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [algorithmsInBioinformatics](https://github.com/joachimwolff/algorithmsInBioinformatics) - Bioinformatics algorithms: Needleman-Wunsch, Feng-Doolittle, Gotoh and Nussinov implemented in Python. By Joachim Wolff, with lecture notes. Also, [rklib](https://github.com/agalitsyna/rklib) - Rabin-Karp implementation of sequence substring search for DNA/RNA, and [lv89](https://github.com/lh3/lv89) - C implementation of the Landau-Vishkin algorithm to compute the edit distance between two strings.
 
+- [BAM-tricks](https://github.com/IARCbioinfo/BAM-tricks) - Tip and tricks for BAM files
+
 - [Bedtools Cheatsheet](https://gist.github.com/ilevantis/6d6ecf8718a5803acff736c2dffc933e#subtract)
 
 - [bioicons](https://bioicons.com/) - A library of free open source icons for science illustrations in biology and chemistry. SVG downloads. [GitHub](https://github.com/duerrsimon/bioicons)
