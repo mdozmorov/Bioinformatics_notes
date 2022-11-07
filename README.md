@@ -141,6 +141,9 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
     Clarke, Daniel J.B., Minji Jeon, Daniel J. Stein, Nicole Moiseyev, Eryk Kropiwnicki, Charles Dai, Zhuorui Xie, et al. “Appyters: Turning Jupyter Notebooks into Data-Driven Web Apps.” Patterns, March 2021, 100213. https://doi.org/10.1016/j.patter.2021.100213.
 </details>
 
+### k-mers
+
+- [kmdiff](https://github.com/tlemane/kmdiff) - Differential k-mer analysis
 
 ## Courses
 
