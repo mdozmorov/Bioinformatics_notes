@@ -90,6 +90,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
     Ison, Jon, Kristoffer Rapacki, Hervé Ménager, Matúš Kalaš, Emil Rydza, Piotr Chmura, Christian Anthon, et al. “Tools and Data Services Registry: A Community Effort to Document Bioinformatics Resources.” Nucleic Acids Research 44, no. D1 (January 4, 2016): D38–47. https://doi.org/10.1093/nar/gkv1116.
 </details>
 
+- [genome_assembly_tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) - List of genome assembly tools. Links to software, publications
+
 - [For all your seq... DNA & RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) - Illumina flyer with infographics of all sequencing-by-synthesis technologies. [RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-rna.pdf) and [DNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) versions
 
 - [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
