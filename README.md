@@ -143,6 +143,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ### k-mers
 
+- [kcmbt_mt](https://github.com/abdullah009/kcmbt_mt) - A very fast k-mer counter
+
 - [kmdiff](https://github.com/tlemane/kmdiff) - Differential k-mer analysis
 
 ## Courses
