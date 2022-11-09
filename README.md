@@ -13,6 +13,8 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 - [Awesome](#awesome)
   - [Notes by Ming Tang](#notes-by-ming-tang)
 - [Pipelines](#pipelines)
+  - [liftOver](#liftover)
+  - [k-mers](#k-mers)
 - [Courses](#courses)
 - [Videos](#videos)
 - [Bioinformatics core organization](#bioinformatics-core-organization)
@@ -142,6 +144,12 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
     <summary>Paper</summary>
     Clarke, Daniel J.B., Minji Jeon, Daniel J. Stein, Nicole Moiseyev, Eryk Kropiwnicki, Charles Dai, Zhuorui Xie, et al. “Appyters: Turning Jupyter Notebooks into Data-Driven Web Apps.” Patterns, March 2021, 100213. https://doi.org/10.1016/j.patter.2021.100213.
 </details>
+
+### liftOver
+
+
+
+- [liftover](https://github.com/jeremymcrae/liftover) - liftover for python, made fast with cython
 
 ### k-mers
 
