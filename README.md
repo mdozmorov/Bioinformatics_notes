@@ -151,7 +151,9 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [liftover](https://github.com/jeremymcrae/liftover) - liftover for python, made fast with cython
 
-- [](https://pypi.org/project/pairLiftOver/) - Python package that converts the two-dimensional genomic coordinates of chromatin contact pairs between assemblies.
+- [liftOverBedpe](https://github.com/dphansti/liftOverBedpe) - A liftOver wrapper to accomodate BEDPE files, by Doug Phanstiel, requires Python 2.7
+
+- [pairLiftOver](https://pypi.org/project/pairLiftOver/) - Python package that converts the two-dimensional genomic coordinates of chromatin contact pairs between assemblies.
 
 ### k-mers
 
