@@ -153,7 +153,7 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [liftOverBedpe](https://github.com/dphansti/liftOverBedpe) - A liftOver wrapper to accomodate BEDPE files, by Doug Phanstiel, requires Python 2.7
 
-- [pairLiftOver](https://pypi.org/project/pairLiftOver/) - Python package that converts the two-dimensional genomic coordinates of chromatin contact pairs between assemblies.
+- [pairLiftOver](https://pypi.org/project/pairLiftOver/) - Python package that converts the two-dimensional genomic coordinates of chromatin contact pairs between assemblies, by Xiaotao Wang. Input - 4D-DCIC pairs format or allValidPairs defined by HiC-Pro. Based on [pyliftover](https://github.com/konstantint/pyliftover)
 
 ### k-mers
 
