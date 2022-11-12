@@ -151,6 +151,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [liftover](https://github.com/jeremymcrae/liftover) - liftover for python, made fast with cython
 
+- [](https://pypi.org/project/pairLiftOver/) - Python package that converts the two-dimensional genomic coordinates of chromatin contact pairs between assemblies.
+
 ### k-mers
 
 - [kcmbt_mt](https://github.com/abdullah009/kcmbt_mt) - A very fast k-mer counter

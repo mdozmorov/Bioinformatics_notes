@@ -1,9 +1,0 @@
-# Blacklist everything
-*
-# whitelist all directories
-#!*/
-# Whitelist specific files
-!README.md
-!.gitignore
-
-.Rproj.user
