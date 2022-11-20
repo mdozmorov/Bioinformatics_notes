@@ -96,6 +96,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [For all your seq... DNA & RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) - Illumina flyer with infographics of all sequencing-by-synthesis technologies. [RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-rna.pdf) and [DNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) versions
 
+- [learngenomics.dev](https://github.com/stjude/learngenomics.dev) - A guided, intuitive introduction to genomics for software engineers. Curated by the community. [Website](https://learngenomics.dev/)
+
 - [Learning Bioinformatics At Home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
 
 - [List of software/websites/databases/other stuff for genome engineering](https://github.com/davidliwei/awesome-CRISPR)
