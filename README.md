@@ -92,6 +92,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
     Ison, Jon, Kristoffer Rapacki, Hervé Ménager, Matúš Kalaš, Emil Rydza, Piotr Chmura, Christian Anthon, et al. “Tools and Data Services Registry: A Community Effort to Document Bioinformatics Resources.” Nucleic Acids Research 44, no. D1 (January 4, 2016): D38–47. https://doi.org/10.1093/nar/gkv1116.
 </details>
 
+- [Jbrowse 2](https://jbrowse.org/jb2/) - Java-based genome browser that includes linear and advanced visualization for synteny, dotplots, breakpoints, gene fusions, whole genome overview, Circos, Spreadsheet view, SV inspector. Many file formats, including Hi-C (hic), BAM/CRAM (various sort pileup options), plain text (VFC, BED, etc.), some specific to specific views. Bookmarks (can be imported from BED), sessions (shareable). Web, desktop versions, can be run from [Jupyter](https://gmod.github.io/jbrowse-jupyter/docs/html/index.html) notebooks, R ([JBrovseR](https://gmod.github.io/JBrowseR/)), [command line](https://jbrowse.org/jb2/docs/cli/), extended with [plugins](https://jbrowse.org/jb2/plugin_store/). [Documentation](https://jbrowse.org/jb2/docs/), [Demos/tutorials](https://jbrowse.org/jb2/demos/). <details>
+    <summary>Paper</summary>
+    Diesh, Colin, Garrett J Stevens, Peter Xie, Teresa De Jesus Martinez, Elliot A. Hershberg, Angel Leung, Emma Guo, et al. “JBrowse 2: A Modular Genome Browser with Views of Synteny and Structural Variation.” Preprint. Bioinformatics, July 31, 2022. https://doi.org/10.1101/2022.07.28.501447.
+</details>
+
 - [genome_assembly_tools](https://github.com/nadegeguiglielmoni/genome_assembly_tools) - List of genome assembly tools. Links to software, publications
 
 - [For all your seq... DNA & RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) - Illumina flyer with infographics of all sequencing-by-synthesis technologies. [RNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-rna.pdf) and [DNA](https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/for-all-you-seek-dna.pdf) versions
