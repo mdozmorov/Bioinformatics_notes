@@ -154,6 +154,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ### liftOver
 
+- [Benchmarking of six liftover tools](https://github.com/phuoc362/Lifted) (UCSC liftOver, rtracklayer::liftOver, CrossMap, NCBI Remap, flo and segment liftover) on converting CpG sites and WGBS samples. Considering integrity-preserving and non integrity-preserving. Explanation of chain file format (Figure 1). segment liftover generates more reliable results than USCS liftOver. <details>
+    <summary>Paper</summary>
+    Luu, Phuc-Loi, Phuc-Thinh Ong, Thanh-Phuoc Dinh, and Susan J Clark. “Benchmark Study Comparing Liftover Tools for Genome Conversion of Epigenome Sequencing Data.” NAR Genomics and Bioinformatics 2, no. 3 (September 1, 2020): lqaa054. https://doi.org/10.1093/nargab/lqaa054.
+</details>
+
 - [CrossMap](https://github.com/liguowang/CrossMap) - genome coordinates conversion between different assemblies (such as hg18 (NCBI36) <=> hg19 (GRCh37)). It supports commonly used file formats including BAM, CRAM, SAM, Wiggle, BigWig, BED, GFF, GTF, MAF VCF, and gVCF. [Documentation](https://crossmap.readthedocs.io/en/latest/)
 
 - [liftover](https://github.com/jeremymcrae/liftover) - liftover for python, made fast with cython
