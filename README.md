@@ -161,6 +161,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [CrossMap](https://github.com/liguowang/CrossMap) - genome coordinates conversion between different assemblies (such as hg18 (NCBI36) <=> hg19 (GRCh37)). It supports commonly used file formats including BAM, CRAM, SAM, Wiggle, BigWig, BED, GFF, GTF, MAF VCF, and gVCF. [Documentation](https://crossmap.readthedocs.io/en/latest/)
 
+- [Liftoff](https://github.com/agshumate/Liftoff) - An accurate GFF3/GTF lift over pipeline
+
 - [liftover](https://github.com/jeremymcrae/liftover) - liftover for python, made fast with cython
 
 - [liftOverBedpe](https://github.com/dphansti/liftOverBedpe) - A liftOver wrapper to accomodate BEDPE files, by Doug Phanstiel, requires Python 2.7
