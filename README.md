@@ -44,9 +44,14 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
     Giani, Alice Maria, Guido Roberto Gallo, Luca Gianfranceschi, and Giulio Formenti. “Long Walk to Genomics: History and Current Approaches to Genome Sequencing and Assembly.” Computational and Structural Biotechnology Journal, November 2019, S2001037019303277. https://doi.org/10.1016/j.csbj.2019.11.002.
 </details>
 
-- The complete assembly of human genome (haploid CHM13 cell line). 3.055 billion base pairs, no gaps for all 22 chromosomes plus ChrX, new genes. Resolving ribosomal rDNA sequences. PacBio, Oxford Nanopore, other technologies. [The Telomere-to-Telomere (T2T) consortium](https://sites.google.com/ucsc.edu/t2tworkinggroup), [UCSC](http://genome.ucsc.edu/cgi-bin/hgTracks?genome=t2t-chm13-v1.0&hubUrl=http://t2t.gi.ucsc.edu/chm13/hub/hub.txt), [NCBI PRJNA559484](https://www.ncbi.nlm.nih.gov/bioproject/559484), [GitHub with download links to FASTA, gff3, liftover chains](https://github.com/marbl/CHM13). <details>
+- The complete assembly of human genome (haploid CHM13 cell line). 3.055 billion base pairs, no gaps for all 22 chromosomes plus ChrX, new genes. Resolving ribosomal rDNA sequences. PacBio, Oxford Nanopore, other technologies. [The Telomere-to-Telomere (T2T) consortium](https://sites.google.com/ucsc.edu/t2tworkinggroup), [UCSC](http://genome.ucsc.edu/cgi-bin/hgTracks?genome=t2t-chm13-v1.0&hubUrl=http://t2t.gi.ucsc.edu/chm13/hub/hub.txt), [NCBI PRJNA559484](https://www.ncbi.nlm.nih.gov/bioproject/559484), [GitHub with download links to FASTA, gff3, liftover chains](https://github.com/marbl/CHM13). [Assembly issues tracker](https://github.com/marbl/CHM13-issues) <details>
     <summary>Paper</summary>
     Nurk, Sergey, Sergey Koren, Arang Rhie, Mikko Rautiainen, Andrey V. Bzikadze, Alla Mikheenko, Mitchell R. Vollger et al. "The complete sequence of a human genome." bioRxiv (2021). https://doi.org/10.1101/2021.05.26.445798
+</details>
+
+- [T2T-Y](https://github.com/marbl/CHM13) - Complete sequencing of human Y chromosome, as a part of the T2T project. Lots of information about corrected errors, complete structures of sex-determining genes, additional protein-coding genes, alternating satellite patterns, centromere structure, repeats. Illumina 33X, PacBio HiFi 42X, ONT 125X sequencing. Table 1 - stats comparison with GRCh38-Y. Improves alignment, variant calling, helps removing human contamination from microbial studies. [Code used in the paper](https://github.com/arangrhie/T2T-HG002Y). <details>
+    <summary>Paper</summary>
+    Rhie, Arang, Sergey Nurk, Monika Cechova, Savannah J. Hoyt, Dylan J. Taylor, Nicolas Altemose, Paul W. Hook, et al. “The Complete Sequence of a Human Y Chromosome.” Preprint. Genomics, December 1, 2022. https://doi.org/10.1101/2022.12.01.518724.
 </details>
 
 - [Milestones in Genomic Sequencing](https://www.nature.com/immersive/d42859-020-00099-0/index.html) by Nature, 2000-2021 period, interactive infographics
