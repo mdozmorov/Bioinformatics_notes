@@ -119,7 +119,10 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [SequencEnG](http://education.knoweng.org/sequenceng/) - Hierarchical summary of 66 sequencing technologies, computational algorithms, references to papers. 
     - Zhang, Y., Manjunath, M., Kim, Y., Heintz, J., and Song, J.S. (2019). SequencEnG: an interactive knowledge base of sequencing techniques. Bioinformatics 35, 1438–1440.
 
-- [OmniPath: intra- & intercellular signaling knowledge](https://omnipathdb.org/) - a database of molecular biology prior knowledge, combines data from more than 100 resources. Interface to R, Python, more.
+- [OmniPath](https://omnipathdb.org/) - database of intra- and extracellular signaling, as well as transcriptional and post-transcriptional regulation. Combining [over 100 resources](https://omnipathdb.org/info). Human data, converted to mouse and rat via homology. [OmnipathR](https://github.com/saezlab/OmnipathR) [Bioconductor](https://bioconductor.org/packages/OmnipathR/) R package, [omnipath](https://github.com/saezlab/omnipath) Python client, [Cytoscape](https://apps.cytoscape.org/apps/omnipath) plugin. [Code used in paper](https://github.com/saezlab/omnipath_analysis). <details>
+    <summary>Paper</summary>
+    Türei, Dénes, Alberto Valdeolivas, Lejla Gul, Nicolàs Palacio‐Escat, Michal Klein, Olga Ivanova, Márton Ölbei, et al. “Integrated Intra‐ and Intercellular Signaling Knowledge for Multicellular Omics Analysis.” Molecular Systems Biology 17, no. 3 (March 2021). https://doi.org/10.15252/msb.20209923.
+</details>
 
 - [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)- Jeff Leek recommended list of genomics papers
 
