@@ -119,11 +119,6 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [SequencEnG](http://education.knoweng.org/sequenceng/) - Hierarchical summary of 66 sequencing technologies, computational algorithms, references to papers. 
     - Zhang, Y., Manjunath, M., Kim, Y., Heintz, J., and Song, J.S. (2019). SequencEnG: an interactive knowledge base of sequencing techniques. Bioinformatics 35, 1438–1440.
 
-- [OmniPath](https://omnipathdb.org/) - database of intra- and extracellular signaling, as well as transcriptional and post-transcriptional regulation. Combining [over 100 resources](https://omnipathdb.org/info). Human data, converted to mouse and rat via homology. [OmnipathR](https://github.com/saezlab/OmnipathR) [Bioconductor](https://bioconductor.org/packages/OmnipathR/) R package, [omnipath](https://github.com/saezlab/omnipath) Python client, [Cytoscape](https://apps.cytoscape.org/apps/omnipath) plugin. [Code used in paper](https://github.com/saezlab/omnipath_analysis). <details>
-    <summary>Paper</summary>
-    Türei, Dénes, Alberto Valdeolivas, Lejla Gul, Nicolàs Palacio‐Escat, Michal Klein, Olga Ivanova, Márton Ölbei, et al. “Integrated Intra‐ and Intercellular Signaling Knowledge for Multicellular Omics Analysis.” Molecular Systems Biology 17, no. 3 (March 2021). https://doi.org/10.15252/msb.20209923.
-</details>
-
 - [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)- Jeff Leek recommended list of genomics papers
 
 ### Notes by Ming Tang
@@ -192,6 +187,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [2020-GGG298](https://github.com/ngs-docs/2020-GGG298) - Course materials for GGG298 - Tools to support data-intensive research, by Titus Brown. Unix, Conda, Snakemake, project organization, Git, Slurm, R/Rmarkdown
 
 - [biocomp-book](https://github.com/camilogarciabotero/biocomp-book) - a course on Fundamentals of Computational Biology. Sequencing analysis and genome assembly/analysis. [Website](https://camilogarciabotero.github.io/biocomp-book/)
+
+- [bioinformatics](https://github.com/ossu/bioinformatics) - Path to a free self-taught education in Bioinformatics! Systematically organized links to courses.
 
 - [biomedicalresearch2021](https://github.com/schatzlab/biomedicalresearch2021) - Course Materials for EN.601.452 / AS.020.415 Computational Biomedical Research & Advanced Biomedical Research, by Michael Schatz. Links to other courses, papers.
 
