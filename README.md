@@ -187,6 +187,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ## Courses
 
+- [computational_biology](https://github.com/fayjustin/computational_biology) - computational biology lectures (pdf) and labs (ipynb). Alignment algorithms (BLAST, BW transform, dynamic programming), molecular evolution (Markov models, likelihood), phylogenetics (trees, pruning, MCMC), annotations (HMM), motifs (PWMs), machine learning (clustering, classification), bioinformatics (pipelines), biophysics (protein structure, prediction).
+
 - [training-collection](https://github.com/sib-swiss/training-collection) - Bioinformatics training materials: Scripting and languages (UNIX shell, Python, R, git), Sequence data analysis (General, Miscellaneous, RNA-seq, ChIP-seq, Single cell, Variant analysis, Genome assembly, Metagenomics), Computational methods and pipelines (Containers, Nextflow, Snakemake, Galaxy, CWL, High performance computing), Statistics and machine learning, Reproducibility and data management. By [SIB Swiss Institute of Bioinformatics](https://github.com/sib-swiss)
 
 - [2020-GGG298](https://github.com/ngs-docs/2020-GGG298) - Course materials for GGG298 - Tools to support data-intensive research, by Titus Brown. Unix, Conda, Snakemake, project organization, Git, Slurm, R/Rmarkdown
