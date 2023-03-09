@@ -199,6 +199,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [biomedicalresearch2021](https://github.com/schatzlab/biomedicalresearch2021) - Course Materials for EN.601.452 / AS.020.415 Computational Biomedical Research & Advanced Biomedical Research, by Michael Schatz. Links to other courses, papers.
 
+- [bggn213_W23](https://github.com/bioboot/bggn213_W23) - A hands-on introduction to the computer-based analysis of genomic and biomolecular data from the Division of Biological Sciences, UCSD. By prof. Barry Grant. Lecture slides, lab, homework material, videos. [Website](https://bioboot.github.io/bggn213_W23/)
+
 - [RNA-seq theory and analysis](https://www.sudosight.com/RNA-seek/RNA-seq/Theory/) - theory and practical guidelines for RNA-seq data analysis, by Skyler Kuhn
 
 - [Introduction to Bioimage Analysis](https://bioimagebook.github.io/) - This book tries explain the main ideas of image analysis in a practical and engaging way. By Pete Bankhead. [GitHub](https://github.com/bioimagebook/bioimagebook.github.io)
