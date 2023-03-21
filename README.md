@@ -90,6 +90,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [bioicons](https://bioicons.com/) - A library of free open source icons for science illustrations in biology and chemistry. SVG downloads. [GitHub](https://github.com/duerrsimon/bioicons)
 
+- [bioconvert](https://github.com/bioconvert/bioconvert) - converter between various data formats. Python, command line.
+
 - [biotools](https://github.com/jdidion/biotools) - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. By John Didion
 
 - [bio.tools](https://bio.tools/) - a community-driven comprehensive and consistent registry of bioinformatics resources. Supported by ELIXIR - the European infrastructure for biological information. <details>
