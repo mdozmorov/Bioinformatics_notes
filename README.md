@@ -205,6 +205,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [RNA-seq theory and analysis](https://www.sudosight.com/RNA-seek/RNA-seq/Theory/) - theory and practical guidelines for RNA-seq data analysis, by Skyler Kuhn
 
+- [Introduction to Bioinformatics and Computational Biology](https://liulab-dfci.github.io/bioinfo-combio/) - the course material for STAT115/215 BIO/BST282 at Harvard University. [YouTube](https://www.youtube.com/playlist?list=PLeB-Dlq-v6taAXK6ZCGfqImrNWJzFt3p3)
+
 - [Introduction to Bioimage Analysis](https://bioimagebook.github.io/) - This book tries explain the main ideas of image analysis in a practical and engaging way. By Pete Bankhead. [GitHub](https://github.com/bioimagebook/bioimagebook.github.io)
 
 - [GRanges tutorial](https://seandavi.github.io/ITR/RangesAndSignal.html) - Working with Genomic Ranges, by Sean Davis
