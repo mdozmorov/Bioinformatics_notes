@@ -169,6 +169,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
     Luu, Phuc-Loi, Phuc-Thinh Ong, Thanh-Phuoc Dinh, and Susan J Clark. “Benchmark Study Comparing Liftover Tools for Genome Conversion of Epigenome Sequencing Data.” NAR Genomics and Bioinformatics 2, no. 3 (September 1, 2020): lqaa054. https://doi.org/10.1093/nargab/lqaa054.
 </details>
 
+- [AirLift](https://github.com/CMU-SAFARI/AirLift) - updates mapped reads from one reference genome to another. Unlike existing tools, It accounts for regions not shared between the two reference genomes and enables remapping across all parts of the references. Described by Kim et al. (preliminary version at http://arxiv.org/abs/1912.08735)
+
 - [CrossMap](https://github.com/liguowang/CrossMap) - genome coordinates conversion between different assemblies (such as hg18 (NCBI36) <=> hg19 (GRCh37)). It supports commonly used file formats including BAM, CRAM, SAM, Wiggle, BigWig, BED, GFF, GTF, MAF VCF, and gVCF. [Documentation](https://crossmap.readthedocs.io/en/latest/)
 
 - [Liftoff](https://github.com/agshumate/Liftoff) - An accurate GFF3/GTF lift over pipeline
