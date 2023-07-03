@@ -121,6 +121,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [multimodal-scRNA-seq](https://github.com/arnavm/multimodal-scRNA-seq) - Figure depicting the breadth of multimodal scRNA-seq technologies. References to technology-specific papers
 
+- [ref-gen](https://github.com/lh3/ref-gen) - Human reference genome analysis sets, by Heng Li. Recommended human genome sequences for various genome asseblies, justification.
+
 - [sandbox.bio](https://sandbox.bio/tutorials/?id=bedtools-intro) - an interactive bedtools tutorial developed by the Quinlan Lab
 
 - [SequencEnG](http://education.knoweng.org/sequenceng/) - Hierarchical summary of 66 sequencing technologies, computational algorithms, references to papers. 
