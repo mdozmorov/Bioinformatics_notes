@@ -104,6 +104,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
     Rand, Knut Dagestad, Ivar Grytten, Milena Pavlovic, Chakravarthi Kanduri, and Geir Kjetil Sandve. “BioNumPy: Fast and Easy Analysis of Biological Data with Python.” Preprint. Bioinformatics, December 22, 2022. https://doi.org/10.1101/2022.12.21.521373.
 </details>
 
+- [Circa](https://omgenomics.com/circa/) - online tool for Circos plot creation
+
 - [Jbrowse 2](https://jbrowse.org/jb2/) - Java-based genome browser that includes linear and advanced visualization for synteny, dotplots, breakpoints, gene fusions, whole genome overview, Circos, Spreadsheet view, SV inspector. Many file formats, including Hi-C (hic), BAM/CRAM (various sort pileup options), plain text (VFC, BED, etc.), some specific to specific views. Bookmarks (can be imported from BED), sessions (shareable). Web, desktop versions, can be run from [Jupyter](https://gmod.github.io/jbrowse-jupyter/docs/html/index.html) notebooks, R ([JBrovseR](https://gmod.github.io/JBrowseR/)), [command line](https://jbrowse.org/jb2/docs/cli/), extended with [plugins](https://jbrowse.org/jb2/plugin_store/). [Documentation](https://jbrowse.org/jb2/docs/), [Demos/tutorials](https://jbrowse.org/jb2/demos/). <details>
     <summary>Paper</summary>
     Diesh, Colin, Garrett J Stevens, Peter Xie, Teresa De Jesus Martinez, Elliot A. Hershberg, Angel Leung, Emma Guo, et al. “JBrowse 2: A Modular Genome Browser with Views of Synteny and Structural Variation.” Preprint. Bioinformatics, July 31, 2022. https://doi.org/10.1101/2022.07.28.501447.
