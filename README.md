@@ -180,6 +180,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [CrossMap](https://github.com/liguowang/CrossMap) - genome coordinates conversion between different assemblies (such as hg18 (NCBI36) <=> hg19 (GRCh37)). It supports commonly used file formats including BAM, CRAM, SAM, Wiggle, BigWig, BED, GFF, GTF, MAF VCF, and gVCF. [Documentation](https://crossmap.readthedocs.io/en/latest/)
 
+- [HiCLift](https://github.com/XiaoTaoWang/HiCLift) - coordinate liftover for region pairs. Converts chromatin contacts in [pairs](https://github.com/4dn-dcic/pairix/blob/master/pairs_format_specification.md) format, [allValidPairs](https://nservant.github.io/HiC-Pro/RESULTS.html) outputted by HiC-Pro, cool format and hic (highest resolution) format. Uses UCSC chain files, represented as IntervalTrees, and the T2T chain files. Benchmarked using HiCRep on the original and converted matrices. <details>
+    <summary>Paper</summary>
+    Wang, Xiaotao, and Feng Yue. “HiCLift: A Fast and Efficient Tool for Converting Chromatin Interaction Data between Genome Assemblies.” Edited by Tobias Marschall. Bioinformatics 39, no. 6 (June 1, 2023): btad389. https://doi.org/10.1093/bioinformatics/btad389.
+</details>
+
 - [Liftoff](https://github.com/agshumate/Liftoff) - An accurate GFF3/GTF lift over pipeline
 
 - [liftover](https://github.com/jeremymcrae/liftover) - liftover for python, made fast with cython
