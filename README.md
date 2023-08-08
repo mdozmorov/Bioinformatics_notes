@@ -138,6 +138,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [bioinformatics-one-liners](https://github.com/crazyhottommy/bioinformatics-one-liners) - collection of bioinformatics-genomics bash one liners, using awk, sed etc., by Ming Tang
 
+- [cloud_computing_resources](https://github.com/crazyhottommy/cloud_computing_resources) - genomics-oriented cloud resources.
+
 - [RNA-seq-analysis](https://github.com/crazyhottommy/RNA-seq-analysis) - RNAseq analysis notes, by Ming Tang
 
 - [ChIP-seq-analysis](https://github.com/crazyhottommy/ChIP-seq-analysis) - ChIP-seq analysis notes, by Ming Tang
