@@ -130,6 +130,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [SequencEnG](http://education.knoweng.org/sequenceng/) - Hierarchical summary of 66 sequencing technologies, computational algorithms, references to papers. 
     - Zhang, Y., Manjunath, M., Kim, Y., Heintz, J., and Song, J.S. (2019). SequencEnG: an interactive knowledge base of sequencing techniques. Bioinformatics 35, 1438–1440.
 
+- [SRPlot](https://bioinformatics.com.cn/srplot) - free online visualization platform of many bioinformatics-specific plots. Tang D, Chen M, Huang X, Zhang G, Zeng L, Zhang G, Wu S, Wang Y. [SRplot: A free online platform for data visualization and graphing.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294236) PLoS One. 2023 Nov 9;18(11):e0294236. doi: 10.1371/journal.pone.0294236. PMID: 37943830.
+
 - [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)- Jeff Leek recommended list of genomics papers
 
 ### Notes by Ming Tang
