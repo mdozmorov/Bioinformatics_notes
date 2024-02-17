@@ -62,6 +62,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [awosome-bioinformatics](https://github.com/openbiox/awosome-bioinformatics) - A curated list of resources for learning bioinformatics
 
+- [awesome-bioinformatics-education](https://github.com/lskatz/awesome-bioinformatics-education) - A curated list of resources specific to learning bioinformatics. Courses, hands-on training, tools.
+
 - [awesome-cancer-variant-databases](https://github.com/seandavi/awesome-cancer-variant-databases) - A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants, by Sean Davis and community-maintained
 
 - [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. By Sean Davis and community-maintained
@@ -212,6 +214,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [training-collection](https://github.com/sib-swiss/training-collection) - Bioinformatics training materials: Scripting and languages (UNIX shell, Python, R, git), Sequence data analysis (General, Miscellaneous, RNA-seq, ChIP-seq, Single cell, Variant analysis, Genome assembly, Metagenomics), Computational methods and pipelines (Containers, Nextflow, Snakemake, Galaxy, CWL, High performance computing), Statistics and machine learning, Reproducibility and data management. By [SIB Swiss Institute of Bioinformatics](https://github.com/sib-swiss)
 
 - [2020-GGG298](https://github.com/ngs-docs/2020-GGG298) - Course materials for GGG298 - Tools to support data-intensive research, by Titus Brown. Unix, Conda, Snakemake, project organization, Git, Slurm, R/Rmarkdown
+
+- [BI-BE-CS-183-2023](https://github.com/pachterlab/BI-BE-CS-183-2023) - Introduction to Computational Biology and Bioinformatics Course at Caltech, 2023.
 
 - [biocomp-book](https://github.com/camilogarciabotero/biocomp-book) - a course on Fundamentals of Computational Biology. Sequencing analysis and genome assembly/analysis. [Website](https://camilogarciabotero.github.io/biocomp-book/)
 
