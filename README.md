@@ -84,6 +84,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [awesome-microbes](https://github.com/stevetsa/awesome-microbes) - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. By Steve Tsang and community-contributed
 
+- [aws-for-bioinformatics](https://github.com/lynnlangit/aws-for-bioinformatics) - Amazon Web Services for Bioinformatics Researchers
+
 - [algorithmsInBioinformatics](https://github.com/joachimwolff/algorithmsInBioinformatics) - Bioinformatics algorithms: Needleman-Wunsch, Feng-Doolittle, Gotoh and Nussinov implemented in Python. By Joachim Wolff, with lecture notes. Also, [rklib](https://github.com/agalitsyna/rklib) - Rabin-Karp implementation of sequence substring search for DNA/RNA, and [lv89](https://github.com/lh3/lv89) - C implementation of the Landau-Vishkin algorithm to compute the edit distance between two strings.
 
 - [BAM-tricks](https://github.com/IARCbioinfo/BAM-tricks) - Tip and tricks for BAM files
