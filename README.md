@@ -86,6 +86,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [aws-for-bioinformatics](https://github.com/lynnlangit/aws-for-bioinformatics) - Amazon Web Services for Bioinformatics Researchers
 
+- [AWS-iGenomes](https://github.com/ewels/AWS-iGenomes) - Documentation and description of AWS iGenomes S3 resource. [Web page](https://ewels.github.io/AWS-iGenomes)
+
 - [algorithmsInBioinformatics](https://github.com/joachimwolff/algorithmsInBioinformatics) - Bioinformatics algorithms: Needleman-Wunsch, Feng-Doolittle, Gotoh and Nussinov implemented in Python. By Joachim Wolff, with lecture notes. Also, [rklib](https://github.com/agalitsyna/rklib) - Rabin-Karp implementation of sequence substring search for DNA/RNA, and [lv89](https://github.com/lh3/lv89) - C implementation of the Landau-Vishkin algorithm to compute the edit distance between two strings.
 
 - [BAM-tricks](https://github.com/IARCbioinfo/BAM-tricks) - Tip and tricks for BAM files
