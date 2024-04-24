@@ -57,8 +57,6 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [Milestones in Genomic Sequencing](https://www.nature.com/immersive/d42859-020-00099-0/index.html) by Nature, 2000-2021 period, interactive infographics
 
 - [Genome Coordinate Cheat Sheet](http://alternateallele.blogspot.com/2012/03/genome-coordinate-cheat-sheet.html)
-  
-- [Coordinate Systems Cheat Sheet](https://github.com/Juke34/coordinate_systems)
 
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software, by Daniel Cook and community-contributed
 
@@ -87,8 +85,6 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [awesome-microbes](https://github.com/stevetsa/awesome-microbes) - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. By Steve Tsang and community-contributed
 
 - [aws-for-bioinformatics](https://github.com/lynnlangit/aws-for-bioinformatics) - Amazon Web Services for Bioinformatics Researchers
-
-- [AWS-iGenomes](https://github.com/ewels/AWS-iGenomes) - Documentation and description of AWS iGenomes S3 resource. [Web page](https://ewels.github.io/AWS-iGenomes)
 
 - [algorithmsInBioinformatics](https://github.com/joachimwolff/algorithmsInBioinformatics) - Bioinformatics algorithms: Needleman-Wunsch, Feng-Doolittle, Gotoh and Nussinov implemented in Python. By Joachim Wolff, with lecture notes. Also, [rklib](https://github.com/agalitsyna/rklib) - Rabin-Karp implementation of sequence substring search for DNA/RNA, and [lv89](https://github.com/lh3/lv89) - C implementation of the Landau-Vishkin algorithm to compute the edit distance between two strings.
 
