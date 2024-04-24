@@ -58,7 +58,7 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [Genome Coordinate Cheat Sheet](http://alternateallele.blogspot.com/2012/03/genome-coordinate-cheat-sheet.html)
   
-- [Coordinate_systems Cheat Sheet](https://github.com/Juke34/coordinate_systems)
+- [Coordinate Systems Cheat Sheet](https://github.com/Juke34/coordinate_systems)
 
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software, by Daniel Cook and community-contributed
 
