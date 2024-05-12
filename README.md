@@ -39,6 +39,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ## Awesome
 
+- Diploid reference genome assembly. Combination of different technologies (Oxford Nanopore ultra-long, PacBio HiFi, BioNano, Hi-C), tools (12 assembly algorithms), combination strategies. Compared with the T2T CHM13 genome. All raw sequence data used in this study are available at the [HPRC GitHub](https://github.com/human-pangenomics/HG002_Data_Freeze_v1.0). The final HPRC-HG002 curated assemblies are available in the NCBI under the BioProject IDs [PRJNA794175](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA794175) and [PRJNA794172](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA794172), with the accession numbers GCA_021951015.1 and GCA_021950905.1, for the maternal and paternal haplotypes, respectively. <details>
+    <summary>Paper</summary>
+    Jarvis, Erich D., Giulio Formenti, Arang Rhie, Andrea Guarracino, Chentao Yang, Jonathan Wood, Alan Tracey, et al. “Semi-Automated Assembly of High-Quality Diploid Human Reference Genomes.” Nature 611, no. 7936 (November 17, 2022): 519–31. https://doi.org/10.1038/s41586-022-05325-5.
+</details>
+
 - Historical perspective on genome sequencing technologies. From the landmark 1953 Watson and Crick publication through sequencing of nucleic acids, shotgun sequencing (Messing, Sanger), Human Genome Project (HGP) & Celera Genomics, milestones in genome assembly, Next and Third generation sequencing, single molecule sequencing (SMRT, ONT, PacBio), long-read genome assemblers (FALCON, Canu). Box1 - companies developing sequencing technologies, Box 2 - more details on HGP, Box 3 - bioinformatics tools for genome assembly. <details>
     <summary>Paper</summary>
     Giani, Alice Maria, Guido Roberto Gallo, Luca Gianfranceschi, and Giulio Formenti. “Long Walk to Genomics: History and Current Approaches to Genome Sequencing and Assembly.” Computational and Structural Biotechnology Journal, November 2019, S2001037019303277. https://doi.org/10.1016/j.csbj.2019.11.002.
@@ -188,6 +193,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 - [AirLift](https://github.com/CMU-SAFARI/AirLift) - command-line tool (C) for remapping reads between genome assemblies. Very fast, highly accurate in identifying ground truth SNP/InDels in lifted data. Describe limitations of current tools. Methods, lookup tables, eight steps, each read remapped using one of four independent cases. Supports multiple file formats, from BAM to BED. Compared with liftOver, CrossMap. Supplementary - description of other tools (liftOver, CrossMap, MCBI Genome Remapping Service, Segment_liftover, PyLiftover, nf-LO, LevioSAM, Liftoff). <details>
     <summary>Paper</summary>
     Kim, Jeremie S., Can Firtina, Meryem Banu Cavlak, Damla Senol Cali, Mohammed Alser, Nastaran Hajinazar, Can Alkan, and Onur Mutlu. “AirLift: A Fast and Comprehensive Technique for Remapping Alignments between Reference Genomes.” arXiv, November 21, 2022. http://arxiv.org/abs/1912.08735.
+</details>
+
+- [BCFtools/liftover](https://github.com/freeseek/score) - best performing tool for SNP/InDel liftover. Improved support for multiallelic SNPs and indels. Compared with Picard/LiftoverVcf, CrossMap/VCF, GenomeWarp, Transanno/liftvcf, Genozip/DVCF. Algorithm for maximally extending/normalizing VCF records. Details about chains. Lowest dropout rate, memory usage, fastest. <details>
+    <summary>Paper</summary>
+    Genovese, Giulio, Nicole B Rockweiler, Bryan R Gorman, Tim B Bigdeli, Michelle T Pato, Carlos N Pato, Kiku Ichihara, and Steven A McCarroll. “BCFtools/Liftover: An Accurate and Comprehensive Tool to Convert Genetic Variants across Genome Assemblies,” n.d.
 </details>
 
 - [CrossMap](https://github.com/liguowang/CrossMap) - genome coordinates conversion between different assemblies (such as hg18 (NCBI36) <=> hg19 (GRCh37)). It supports commonly used file formats including BAM, CRAM, SAM, Wiggle, BigWig, BED, GFF, GTF, MAF VCF, and gVCF. [Documentation](https://crossmap.readthedocs.io/en/latest/)
