@@ -217,11 +217,18 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ### k-mers
 
+- [Mercury](https://github.com/marbl/merqury) - reference-free k-mer analysis for genome assemblies. Also assess completeness, phasing. Works with haplotype-specific assemblies. Visualization, k-mer, hap-mer spectrum plots, can be used to infer CNVs. Inspired by KAT. Benchmarked on model organism and human genomes. <details>
+    <summary>Paper</summary>
+    Rhie, Arang, Brian P. Walenz, Sergey Koren, and Adam M. Phillippy. “Merqury: Reference-Free Quality, Completeness, and Phasing Assessment for Genome Assemblies.” Genome Biology 21, no. 1 (December 2020): 245. https://doi.org/10.1186/s13059-020-02134-9.
+</details>
+
 - [KAT](https://github.com/TGAC/KAT) - The K-mer Analysis Toolkit, compares k-mer spectra. Analyzes jellyfish hashes or FASTQ/FASTA files.
 
 - [kcmbt_mt](https://github.com/abdullah009/kcmbt_mt) - A very fast k-mer counter
 
 - [kmdiff](https://github.com/tlemane/kmdiff) - Differential k-mer analysis
+
+- [Dot]() - dotplot visualization
 
 ## Courses
 
