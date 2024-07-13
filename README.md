@@ -226,6 +226,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [kcmbt_mt](https://github.com/abdullah009/kcmbt_mt) - A very fast k-mer counter
 
+- [kmertools](https://github.com/anuradhawick/kmertools) - kmer based feature extraction tool for bioinformatics, metagenomics, AI/ML and more. Rust, Bioconda installable
+
 - [kmdiff](https://github.com/tlemane/kmdiff) - Differential k-mer analysis
 
 - [Dot]() - dotplot visualization
