@@ -246,6 +246,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [biocomp-book](https://github.com/camilogarciabotero/biocomp-book) - a course on Fundamentals of Computational Biology. Sequencing analysis and genome assembly/analysis. [Website](https://camilogarciabotero.github.io/biocomp-book/)
 
+- [Bioinformatics_Algorithms](https://github.com/mhtjsh/Bioinformatics_Algorithms) - Python implementation of various bioinformatics algorithms, from k-mer analysis to motif search.
+
 - [bioinformatics](https://github.com/ossu/bioinformatics) - Path to a free self-taught education in Bioinformatics! Systematically organized links to courses.
 
 - [biomedicalresearch2021](https://github.com/schatzlab/biomedicalresearch2021) - Course Materials for EN.601.452 / AS.020.415 Computational Biomedical Research & Advanced Biomedical Research, by Michael Schatz. Links to other courses, papers.
