@@ -234,6 +234,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ## Courses
 
+- [learning-bioinformatics-at-home](https://github.com/harvardinformatics/learning-bioinformatics-at-home) - resources for learning bioinformatics from Harvard informatics group. Unix, R, Python, Starixtics, and links to other resources.
+
 - [ComputationalGenomicsManual](https://github.com/linsalrob/ComputationalGenomicsManual) - material for the computational genomics and bioinformatics class. [Videos](https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn)
 
 - [computational_biology](https://github.com/fayjustin/computational_biology) - computational biology lectures (pdf) and labs (ipynb). Alignment algorithms (BLAST, BW transform, dynamic programming), molecular evolution (Markov models, likelihood), phylogenetics (trees, pruning, MCMC), annotations (HMM), motifs (PWMs), machine learning (clustering, classification), bioinformatics (pipelines), biophysics (protein structure, prediction).
