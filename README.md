@@ -12,6 +12,7 @@ Bioinformatics learning and data analysis tips and tricks. Please, [contribute a
 
 - [Awesome](#awesome)
   - [Notes by Ming Tang](#notes-by-ming-tang)
+  - [T2T genome](#t2t-genome)
 - [Pipelines](#pipelines)
   - [liftOver](#liftover)
   - [k-mers](#k-mers)
@@ -39,24 +40,9 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ## Awesome
 
-- Diploid reference genome assembly. Combination of different technologies (Oxford Nanopore ultra-long, PacBio HiFi, BioNano, Hi-C), tools (12 assembly algorithms), combination strategies. Compared with the T2T CHM13 genome. All raw sequence data used in this study are available at the [HPRC GitHub](https://github.com/human-pangenomics/HG002_Data_Freeze_v1.0). The final HPRC-HG002 curated assemblies are available in the NCBI under the BioProject IDs [PRJNA794175](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA794175) and [PRJNA794172](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA794172), with the accession numbers GCA_021951015.1 and GCA_021950905.1, for the maternal and paternal haplotypes, respectively. <details>
-    <summary>Paper</summary>
-    Jarvis, Erich D., Giulio Formenti, Arang Rhie, Andrea Guarracino, Chentao Yang, Jonathan Wood, Alan Tracey, et al. “Semi-Automated Assembly of High-Quality Diploid Human Reference Genomes.” Nature 611, no. 7936 (November 17, 2022): 519–31. https://doi.org/10.1038/s41586-022-05325-5.
-</details>
-
 - Historical perspective on genome sequencing technologies. From the landmark 1953 Watson and Crick publication through sequencing of nucleic acids, shotgun sequencing (Messing, Sanger), Human Genome Project (HGP) & Celera Genomics, milestones in genome assembly, Next and Third generation sequencing, single molecule sequencing (SMRT, ONT, PacBio), long-read genome assemblers (FALCON, Canu). Box1 - companies developing sequencing technologies, Box 2 - more details on HGP, Box 3 - bioinformatics tools for genome assembly. <details>
     <summary>Paper</summary>
     Giani, Alice Maria, Guido Roberto Gallo, Luca Gianfranceschi, and Giulio Formenti. “Long Walk to Genomics: History and Current Approaches to Genome Sequencing and Assembly.” Computational and Structural Biotechnology Journal, November 2019, S2001037019303277. https://doi.org/10.1016/j.csbj.2019.11.002.
-</details>
-
-- The complete assembly of human genome (haploid CHM13 cell line). 3.055 billion base pairs, no gaps for all 22 chromosomes plus ChrX, new genes. Resolving ribosomal rDNA sequences. PacBio, Oxford Nanopore, other technologies. [The Telomere-to-Telomere (T2T) consortium](https://sites.google.com/ucsc.edu/t2tworkinggroup), [UCSC](http://genome.ucsc.edu/cgi-bin/hgTracks?genome=t2t-chm13-v1.0&hubUrl=http://t2t.gi.ucsc.edu/chm13/hub/hub.txt), [NCBI PRJNA559484](https://www.ncbi.nlm.nih.gov/bioproject/559484), [GitHub with download links to FASTA, gff3, liftover chains](https://github.com/marbl/CHM13). [Assembly issues tracker](https://github.com/marbl/CHM13-issues) <details>
-    <summary>Paper</summary>
-    Nurk, Sergey, Sergey Koren, Arang Rhie, Mikko Rautiainen, Andrey V. Bzikadze, Alla Mikheenko, Mitchell R. Vollger et al. "The complete sequence of a human genome." bioRxiv (2021). https://doi.org/10.1101/2021.05.26.445798
-</details>
-
-- [T2T-Y](https://github.com/marbl/CHM13) - Complete sequencing of human Y chromosome, as a part of the T2T project. Lots of information about corrected errors, complete structures of sex-determining genes, additional protein-coding genes, alternating satellite patterns, centromere structure, repeats. Illumina 33X, PacBio HiFi 42X, ONT 125X sequencing. Table 1 - stats comparison with GRCh38-Y. Improves alignment, variant calling, helps removing human contamination from microbial studies. [Code used in the paper](https://github.com/arangrhie/T2T-HG002Y). <details>
-    <summary>Paper</summary>
-    Rhie, Arang, Sergey Nurk, Monika Cechova, Savannah J. Hoyt, Dylan J. Taylor, Nicolas Altemose, Paul W. Hook, et al. “The Complete Sequence of a Human Y Chromosome.” Preprint. Genomics, December 1, 2022. https://doi.org/10.1101/2022.12.01.518724.
 </details>
 
 - [Milestones in Genomic Sequencing](https://www.nature.com/immersive/d42859-020-00099-0/index.html) by Nature, 2000-2021 period, interactive infographics
@@ -165,6 +151,27 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [scATAC-seq-analysis-notes](https://github.com/crazyhottommy/scATAC-seq-analysis-notes) - single-cell ATAC-seq notes, by Ming Tang
 
+### T2T genome
+
+- Diploid reference genome assembly. Combination of different technologies (Oxford Nanopore ultra-long, PacBio HiFi, BioNano, Hi-C), tools (12 assembly algorithms), combination strategies. Compared with the T2T CHM13 genome. All raw sequence data used in this study are available at the [HPRC GitHub](https://github.com/human-pangenomics/HG002_Data_Freeze_v1.0). The final HPRC-HG002 curated assemblies are available in the NCBI under the BioProject IDs [PRJNA794175](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA794175) and [PRJNA794172](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA794172), with the accession numbers GCA_021951015.1 and GCA_021950905.1, for the maternal and paternal haplotypes, respectively. <details>
+    <summary>Paper</summary>
+    Jarvis, Erich D., Giulio Formenti, Arang Rhie, Andrea Guarracino, Chentao Yang, Jonathan Wood, Alan Tracey, et al. “Semi-Automated Assembly of High-Quality Diploid Human Reference Genomes.” Nature 611, no. 7936 (November 17, 2022): 519–31. https://doi.org/10.1038/s41586-022-05325-5.
+</details>
+
+- The complete assembly of human genome (haploid CHM13 cell line). 3.055 billion base pairs, no gaps for all 22 chromosomes plus ChrX, new genes. Resolving ribosomal rDNA sequences. PacBio, Oxford Nanopore, other technologies. [The Telomere-to-Telomere (T2T) consortium](https://sites.google.com/ucsc.edu/t2tworkinggroup), [UCSC](http://genome.ucsc.edu/cgi-bin/hgTracks?genome=t2t-chm13-v1.0&hubUrl=http://t2t.gi.ucsc.edu/chm13/hub/hub.txt), [NCBI PRJNA559484](https://www.ncbi.nlm.nih.gov/bioproject/559484), [GitHub with download links to FASTA, gff3, liftover chains](https://github.com/marbl/CHM13). [Assembly issues tracker](https://github.com/marbl/CHM13-issues) <details>
+    <summary>Paper</summary>
+    Nurk, Sergey, Sergey Koren, Arang Rhie, Mikko Rautiainen, Andrey V. Bzikadze, Alla Mikheenko, Mitchell R. Vollger et al. "The complete sequence of a human genome." bioRxiv (2021). https://doi.org/10.1101/2021.05.26.445798
+</details>
+
+- [T2T-Y](https://github.com/marbl/CHM13) - Complete sequencing of human Y chromosome, as a part of the T2T project. Lots of information about corrected errors, complete structures of sex-determining genes, additional protein-coding genes, alternating satellite patterns, centromere structure, repeats. Illumina 33X, PacBio HiFi 42X, ONT 125X sequencing. Table 1 - stats comparison with GRCh38-Y. Improves alignment, variant calling, helps removing human contamination from microbial studies. [Code used in the paper](https://github.com/arangrhie/T2T-HG002Y). <details>
+    <summary>Paper</summary>
+    Rhie, Arang, Sergey Nurk, Monika Cechova, Savannah J. Hoyt, Dylan J. Taylor, Nicolas Altemose, Paul W. Hook, et al. “The Complete Sequence of a Human Y Chromosome.” Preprint. Genomics, December 1, 2022. https://doi.org/10.1101/2022.12.01.518724.
+</details>
+
+- Investigation of non-syntenic regions between hg38 and T2T genome assemblies. Sarge-scale SVs detected by [LASTZ](https://www.bx.psu.edu/~rsharris/lastz/), [minigraph](https://github.com/lh3/minigraph), [PBSV](https://github.com/PacificBiosciences/pbsv), [PAV](https://github.com/EichlerLab/pav). [SynPlotter](https://synplotter.sjtu.edu.cn/), [SafFire](https://github.com/mrvollger/SafFire), [Mummer](https://github.com/mummer4/mummer) alignment and visualization tools. Investigation of regions and genes associated with human diseases. Data in supplementary tables. <details>
+    <summary>Paper</summary>
+    Yang, Xiangyu, Xuankai Wang, Yawen Zou, Shilong Zhang, Manying Xia, Lianting Fu, Mitchell R. Vollger, et al. “Characterization of Large-Scale Genomic Differences in the First Complete Human Genome.” Genome Biology 24, no. 1 (July 4, 2023): 157. https://doi.org/10.1186/s13059-023-02995-w.
+</details>
 
 ## Pipelines
 
