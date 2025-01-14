@@ -173,6 +173,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
     Yang, Xiangyu, Xuankai Wang, Yawen Zou, Shilong Zhang, Manying Xia, Lianting Fu, Mitchell R. Vollger, et al. “Characterization of Large-Scale Genomic Differences in the First Complete Human Genome.” Genome Biology 24, no. 1 (July 4, 2023): 157. https://doi.org/10.1186/s13059-023-02995-w.
 </details>
 
+- Human pangenome from 47 phased, diploid assemblies from a cohort of genetically diverse individuals. Better captures known variants and haplotypes, and reveals new alleles at structurally complex loci Adds 119Mbp of euchromatin and 1,115 gene duplications relative to GRCh38. Alignment to the pangenome reference reduces errors and increases the number of structural variants. Minigraph, Minigraph-Cactus, PGGB (PanGenome Graph Builder) graph assembers (GFA format). Links to data and resources at [GitHub](https://github.com/human-pangenomics/hpp_pangenome_resources). <details>
+    <summary>Paper</summary>
+    Liao, WW., Asri, M., Ebler, J. et al. A draft human pangenome reference. Nature 617, 312–324 (2023). https://doi.org/10.1038/s41586-023-05896-x
+</details>
+
 ## Pipelines
 
 - [List of bioinformatics tools developed by IHEC Int'l Human Epigenome Consortium researchers](http://ihec-epigenomes.org/research/tools/) - tools for all types of genomic analyses
