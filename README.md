@@ -153,6 +153,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ### T2T genome
 
+- [T2T-mhaESC complete mouse genome](https://github.com/yulab-ql/mhaESC_genome/releases). Mouse haploid androgenic embryonic stem cells (mhaESC). HiFi (PacBio), ONT (Oxford Nanopore), 60x Illumina short-read sequencing, 112x Hi-C (Arima), BioNano optical maps. hifiasm for genome assembly, with manual correction. 2.77Gbp total size including 251Mbp previously unassembled regions (mostly satellites and structural duplications) but also 1.3Mb deletion on the long arm of chr2. 639 additional protein-coding genes, some duplicated, some completely new. Assembly and characterization of ribosomal DNA arrays, centromeres. [GitHub](https://github.com/yulab-ql/mhaESC_genome). <details>
+    <summary>Paper</summary>
+    Liu, Junli, Qilin Li, Yixuan Hu, Yi Yu, Kai Zheng, Dengfeng Li, Lexin Qin, and Xiaochun Yu. “The Complete Telomere-to-Telomere Sequence of a Mouse Genome.” Science 386, no. 6726 (December 6, 2024): 1141–46. https://doi.org/10.1126/science.adq8191.
+</details>
+
 - Diploid reference genome assembly. Combination of different technologies (Oxford Nanopore ultra-long, PacBio HiFi, BioNano, Hi-C), tools (12 assembly algorithms), combination strategies. Compared with the T2T CHM13 genome. All raw sequence data used in this study are available at the [HPRC GitHub](https://github.com/human-pangenomics/HG002_Data_Freeze_v1.0). The final HPRC-HG002 curated assemblies are available in the NCBI under the BioProject IDs [PRJNA794175](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA794175) and [PRJNA794172](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA794172), with the accession numbers GCA_021951015.1 and GCA_021950905.1, for the maternal and paternal haplotypes, respectively. <details>
     <summary>Paper</summary>
     Jarvis, Erich D., Giulio Formenti, Arang Rhie, Andrea Guarracino, Chentao Yang, Jonathan Wood, Alan Tracey, et al. “Semi-Automated Assembly of High-Quality Diploid Human Reference Genomes.” Nature 611, no. 7936 (November 17, 2022): 519–31. https://doi.org/10.1038/s41586-022-05325-5.
