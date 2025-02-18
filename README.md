@@ -116,6 +116,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [List of software/websites/databases/other stuff for genome engineering](https://github.com/davidliwei/awesome-CRISPR)
 
+- [Logan](https://github.com/IndexThePlanet/Logan) - genome assemblies from SRA data, all organisms. Each SRA dataset processed on cloud using Docker containers. Unitigs (shorter, assembled with Cuttlefish2) and contigs (longer, assembled with Minia3) sequences.  Data filtered against a search database with all known RNA viral palmprints cores (palmcores), 16S and ITS sequences from the BOLD database, and viral sequences of papillomavirus and anellovirus as well as from the Obelisks elements. [Logan-search](https://logan-search.org/) for matching sequences with SRA IDs. [Download](https://registry.opendata.aws/pasteur-logan/). <details>
+    <summary>Paper</summary>
+    Chikhi, Rayan, Brice Raffestin, Anton Korobeynikov, Robert Edgar, and Artem Babaian. “Logan: Planetary-Scale Genome Assembly Surveys Life’s Diversity,” July 31, 2024. https://doi.org/10.1101/2024.07.30.605881.
+</details>
+
 - [multimodal-scRNA-seq](https://github.com/arnavm/multimodal-scRNA-seq) - Figure depicting the breadth of multimodal scRNA-seq technologies. References to technology-specific papers
 
 - [ref-gen](https://github.com/lh3/ref-gen) - Human reference genome analysis sets, by Heng Li. Recommended human genome sequences for various genome asseblies, justification.
