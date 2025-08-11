@@ -163,6 +163,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
     Liu, Junli, Qilin Li, Yixuan Hu, Yi Yu, Kai Zheng, Dengfeng Li, Lexin Qin, and Xiaochun Yu. “The Complete Telomere-to-Telomere Sequence of a Mouse Genome.” Science 386, no. 6726 (December 6, 2024): 1141–46. https://doi.org/10.1126/science.adq8191.
 </details>
 
+- T2T paper investigating structural duplications (SDs) in the human genome. 7% of the human genome consists of structural duplications. Clusters of tandemly repeated ribosomal RNAs, acrocentric arms and the pericentromeric regions are highly homologous. Methylation does not appear to correlate with SDs. Characterization of genes in SDs. <details>
+    <summary>Paper</summary>
+    Vollger, Mitchell R., Xavi Guitart, Philip C. Dishuck, et al. “Segmental Duplications and Their Variation in a Complete Human Genome.” Science 376, no. 6588 (2022): eabj6965. https://doi.org/10.1126/science.abj6965.
+</details>
+
 - Diploid reference genome assembly. Combination of different technologies (Oxford Nanopore ultra-long, PacBio HiFi, BioNano, Hi-C), tools (12 assembly algorithms), combination strategies. Compared with the T2T CHM13 genome. All raw sequence data used in this study are available at the [HPRC GitHub](https://github.com/human-pangenomics/HG002_Data_Freeze_v1.0). The final HPRC-HG002 curated assemblies are available in the NCBI under the BioProject IDs [PRJNA794175](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA794175) and [PRJNA794172](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA794172), with the accession numbers GCA_021951015.1 and GCA_021950905.1, for the maternal and paternal haplotypes, respectively. <details>
     <summary>Paper</summary>
     Jarvis, Erich D., Giulio Formenti, Arang Rhie, Andrea Guarracino, Chentao Yang, Jonathan Wood, Alan Tracey, et al. “Semi-Automated Assembly of High-Quality Diploid Human Reference Genomes.” Nature 611, no. 7936 (November 17, 2022): 519–31. https://doi.org/10.1038/s41586-022-05325-5.
