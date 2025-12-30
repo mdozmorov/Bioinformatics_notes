@@ -238,6 +238,8 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 - [liftover](https://github.com/jeremymcrae/liftover) - liftover for python, made fast with cython
 
+- [LiftoverVcf](https://gatk.broadinstitute.org/hc/en-us/articles/360037060932-LiftoverVcf-Picard) - Picard tool for VCF liftOvers.
+
 - [liftOverBedpe](https://github.com/dphansti/liftOverBedpe) - A liftOver wrapper to accomodate BEDPE files, by Doug Phanstiel, requires Python 2.7
 
 - [pairLiftOver](https://pypi.org/project/pairLiftOver/) - Python package that converts the two-dimensional genomic coordinates of chromatin contact pairs between assemblies, by Xiaotao Wang. Input - 4D-DCIC [pairs](https://github.com/4dn-dcic/pairix) format or allValidPairs defined by HiC-Pro. Based on [pyliftover](https://github.com/konstantint/pyliftover)
