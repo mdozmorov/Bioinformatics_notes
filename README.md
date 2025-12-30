@@ -158,6 +158,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ### T2T genome
 
+- T2T-CHM13 genome assembly improves variant calling, reduces the reference mapping bias compared with hg38. Analysis of proximal +/-150bp sequences of ClinVar variants (read consensus from 1K project). TFBS, CpG sequences research. Sequence differences are available, OpenCRAVAT annotation for ClinVar at [OpenCravat Modules](https://run.opencravat.org/submit/nocache/index.html?store), “Clinvar T2T-hg38 comparator annotator”. [PacBam](https://bitbucket.org/CibioBCG/pacbam) for coverage and region summary files, pileups. [Code 1](https://github.com/demichelislab/ref_gen_comp), [Code 2](https://github.com/demichelislab/annotating_change_ref_genomes). <details>
+    <summary>Paper</summary>
+    Cherchi, Ilaria, Francesco Orlando, Orsetta Quaini, Marta Paoli, Yari Ciani, and Francesca Demichelis. T2T-CHM13 Reference Genome Reduces Mapping Bias and Enhances Alignment Accuracy at Disease-Associated Variants. https://doi.org/10.64898/2025.12.17.694618
+</details>
+
 - [T2T-mhaESC complete mouse genome](https://github.com/yulab-ql/mhaESC_genome/releases). Mouse haploid androgenic embryonic stem cells (mhaESC). HiFi (PacBio), ONT (Oxford Nanopore), 60x Illumina short-read sequencing, 112x Hi-C (Arima), BioNano optical maps. hifiasm for genome assembly, with manual correction. 2.77Gbp total size including 251Mbp previously unassembled regions (mostly satellites and structural duplications) but also 1.3Mb deletion on the long arm of chr2. 639 additional protein-coding genes, some duplicated, some completely new. Assembly and characterization of ribosomal DNA arrays, centromeres. [GitHub](https://github.com/yulab-ql/mhaESC_genome). <details>
     <summary>Paper</summary>
     Liu, Junli, Qilin Li, Yixuan Hu, Yi Yu, Kai Zheng, Dengfeng Li, Lexin Qin, and Xiaochun Yu. “The Complete Telomere-to-Telomere Sequence of a Mouse Genome.” Science 386, no. 6726 (December 6, 2024): 1141–46. https://doi.org/10.1126/science.adq8191.
