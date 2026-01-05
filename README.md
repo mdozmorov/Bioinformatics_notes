@@ -251,6 +251,11 @@ See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programm
 
 ### k-mers
 
+- [D2R](https://github.com/chansigit/D2R_codes) - $D_{2}^{R}$ statistics to quantify the level of repetitive sequences (tandem, interspaced). Other de novo repeat detection methods: TRF, RECON, PLIER, Tallymer. Normalized sum of counts of all k-mer matches, high for sequences with high repeat content. Selection of k matters, supervised/unsupervised/q-value threshold selection. Can be applied to single sequence or on sliding window. Compared with RF sequence-level repeat detector, CRT, Red tools. Linear computational complexity, low memory. Java, C++. <details>
+    <summary>Paper</summary>
+    Chen, Sijie, Yixin Chen, Fengzhu Sun, Michael S Waterman, and Xuegong Zhang. “A New Statistic for Efficient Detection of Repetitive Sequences.” Bioinformatics 35, no. 22 (2019): 4596–606. https://doi.org/10.1093/bioinformatics/btz262.
+</details>
+
 - [Mercury](https://github.com/marbl/merqury) - reference-free k-mer analysis for genome assemblies. Also assess completeness, phasing. Works with haplotype-specific assemblies. Visualization, k-mer, hap-mer spectrum plots, can be used to infer CNVs. Inspired by KAT. Benchmarked on model organism and human genomes. <details>
     <summary>Paper</summary>
     Rhie, Arang, Brian P. Walenz, Sergey Koren, and Adam M. Phillippy. “Merqury: Reference-Free Quality, Completeness, and Phasing Assessment for Genome Assemblies.” Genome Biology 21, no. 1 (December 2020): 245. https://doi.org/10.1186/s13059-020-02134-9.
